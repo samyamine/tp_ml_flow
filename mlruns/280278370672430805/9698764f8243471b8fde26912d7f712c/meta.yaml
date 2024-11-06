@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/280278370672430805/9698764f8243471b8fde26912d7f712c/artifacts
+end_time: 1730900901711
+entry_point_name: ''
+experiment_id: '280278370672430805'
+lifecycle_stage: active
+run_id: 9698764f8243471b8fde26912d7f712c
+run_name: bittersweet-dog-432
+run_uuid: 9698764f8243471b8fde26912d7f712c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730900899376
+status: 3
+tags: []
+user_id: samya
